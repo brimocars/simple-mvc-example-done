@@ -1,6 +1,6 @@
 {
   "name": "simple-mvc-example",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple Express MVC using only static files",
   "main": "./server/app.js",
   "scripts": {
